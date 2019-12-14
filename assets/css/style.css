@@ -550,6 +550,13 @@ footer h3 {
     color: white;
 }
 
+.footer-credit{
+	padding-top: 120px;
+/*	padding-left: 20px;*/
+    color: #c1c1c1;
+	font-size: 10px;
+}
+
 
 /*Social Buttons */
 #social-icons{
